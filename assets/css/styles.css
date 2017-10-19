@@ -35,3 +35,95 @@ body {
 #navbar{
 	width: 100%;
 }
+
+.col-md-6{
+	width: 50%;
+	float: left
+	position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;;
+}
+
+p {
+    margin: 0 0 27px;
+}
+
+.cs-btn-tertiary {
+    color: #fff;
+    background-color: #e2a855;
+    border-color: #e2a855;
+}
+.cs-btn-secondary {
+    color: #fff;
+    background-color: #6e808b;
+    border-color: #6e808b;
+}
+.cs-btn-accent {
+    color: #fff;
+    background-color: #0696D7;
+    border-color: #0696D7;
+}
+.cs-btn-primary {
+    color: #fff;
+    background-color: #003b5d;
+    border-color: #003b5d;
+}
+
+.cs-btn-xs {
+    padding: 3px 10px;
+    font-size: 10px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+.cs-btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    box-shadow: none;
+    white-space: nowrap;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.6;
+    border-radius: 4px;
+    user-select: none;
+    font-weight: 700;
+    border: none;
+    border-radius: 3px;
+    white-space: normal;
+}
+
+a{
+	text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+.img-center img {
+    margin: 0 auto 27px;
+    display: block;
+    max-width: 100%;
+    height: auto;
+
+}
+
+.img-responsive{
+	display: block;
+	max-width: 100%;
+	height: auto;
+
+}
+
+img.resize{
+		
+}
