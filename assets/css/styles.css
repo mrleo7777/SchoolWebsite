@@ -14,7 +14,15 @@ body {
 	margin-top: 40px;
 
 }
-
+.well{
+    color: white;
+}
+.cs-icon {
+    color: white;
+}
+.panel-body{
+    text-align: right;
+}
 
 .cs-main-menu a {
     display: block;
@@ -35,7 +43,21 @@ body {
 #navbar{
 	width: 100%;
 }
+.list-group{
+    width: 200px;
+    height: 500px;
+}
+.btn-group-vertical {
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width:110%;
+}
+.cs-icon-wrap{
+    font-color: white;
+    cs-icon-text-white
 
+}
 .col-md-6{
 	width: 50%;
 	float: left
