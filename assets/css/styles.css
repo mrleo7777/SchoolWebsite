@@ -149,19 +149,6 @@ img {
     text-decoration: none;
 }
 
-.quick-links-par li{
-    font-size: 19px;
-    display: block;
-    padding: 5px 5px;
-    border-width: 0 0 1px;
-    border-style: solid;
-    border-color: #CECDCA;
-    text-decoration: none;
-}
-.quick-links-par a{
-       color: #222;
-}
-
 .quick-links a{
 	   color: #222;
 }
@@ -181,9 +168,6 @@ img {
 
 .hql{
 	background-color: #6e808b;
-}
-.par{
-    background-color: #6e808b;
 }
 
 .bg-footer {
@@ -350,6 +334,15 @@ img {
 	height: auto;
 
 }
-.parent-content p{
-    font-size: 16px;
+
+img.resize{
+		
 }
+
+#myCarousel {
+    height: 100%;
+    width: 60%;
+    
+}
+
+>>>>>>> 772e50c8480c3127353c82883a52f8d895941441
