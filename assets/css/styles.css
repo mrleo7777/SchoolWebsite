@@ -1,3 +1,158 @@
+<<<<<<< HEAD
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    line-height: 1.6;
+    color: #71706F;
+    background-color: #CECDCA;
+}
+
+.navheader{
+	margin-top: 30px;
+}
+
+.navbar{
+	margin-top: 40px;
+
+}
+.well{
+    color: white;
+}
+.cs-icon {
+    color: white;
+}
+.panel-body{
+    text-align: right;
+}
+.black{
+    color: black;
+}
+.cs-main-menu a {
+    display: block;
+    height: 60px;
+    line-height: 60px;
+    padding: 0 20px;
+    background-color: #003b5d;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: normal;
+    text-decoration: none;
+    text-align: center;
+    width: 120px;
+}
+
+#navbar{
+	width: 100%;
+}
+.list-group{
+    width: 200px;
+    height: 500px;
+}
+.btn-group-vertical {
+    padding: 10px 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width:110%;
+}
+.cs-icon-wrap{
+    font-color: white;
+    cs-icon-text-white
+
+}
+.col-md-6{
+	width: 50%;
+	float: left
+	position: relative;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;;
+}
+
+p {
+    margin: 0 0 27px;
+}
+
+.cs-btn-tertiary {
+    color: #fff;
+    background-color: #e2a855;
+    border-color: #e2a855;
+}
+.cs-btn-secondary {
+    color: #fff;
+    background-color: #6e808b;
+    border-color: #6e808b;
+}
+.cs-btn-accent {
+    color: #fff;
+    background-color: #0696D7;
+    border-color: #0696D7;
+}
+.cs-btn-primary {
+    color: #fff;
+    background-color: #003b5d;
+    border-color: #003b5d;
+}
+
+.cs-btn-xs {
+    padding: 3px 10px;
+    font-size: 10px;
+    line-height: 1.5;
+    border-radius: 3px;
+}
+.cs-btn {
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: normal;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    box-shadow: none;
+    white-space: nowrap;
+    padding: 5px 10px;
+    font-size: 12px;
+    line-height: 1.6;
+    border-radius: 4px;
+    user-select: none;
+    font-weight: 700;
+    border: none;
+    border-radius: 3px;
+    white-space: normal;
+}
+
+a{
+	text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: inline-block;
+    vertical-align: middle;
+    
+}
+
+.img-center img {
+    margin: 0 auto 27px;
+    display: block;
+    max-width: 100%;
+    height: auto;
+
+}
+
+.img-responsive{
+	display: block;
+	max-width: 100%;
+	height: auto;
+
+}
+
+img.resize{
+		
+}
+=======
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 17px;
@@ -668,7 +823,11 @@ img {
 
 }
 
+<<<<<<< HEAD
+>>>>>>> 4d6304ed47309eb41ff273d27654428d6c2fc1f1
+=======
 #Carousel{
     height: 100%;
     width: 60%;
 }
+>>>>>>> 200843d0551e0ae71616ac7604ca22cdfe3e93fe
